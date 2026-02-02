@@ -15,7 +15,7 @@ I enjoy creating tools that automate workflows and solve real problems — from 
 
 My philosophy is simple: build useful things, keep learning, and ship fast.
 
-Outside of tech, you’ll usually find me at the gym or fishing by the sea 💪🎣
+Outside of tech, you’ll usually find me at the gym or fishing by the sea 
 
 ---
 
